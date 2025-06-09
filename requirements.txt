@@ -2,3 +2,10 @@ pandas
 google-play-scraper
 tqdm
 jupyter
+transformers 
+torch 
+textblob 
+nltk 
+vaderSentiment 
+scikit-learn 
+spacy
