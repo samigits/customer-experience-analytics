@@ -9,3 +9,4 @@ nltk
 vaderSentiment 
 scikit-learn 
 spacy
+pipeline
