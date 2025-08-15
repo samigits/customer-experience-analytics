@@ -10,4 +10,3 @@ vaderSentiment
 scikit-learn 
 spacy
 pipeline
-TfidfVectorizer
