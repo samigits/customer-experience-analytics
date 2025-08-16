@@ -10,3 +10,4 @@ vaderSentiment
 scikit-learn 
 spacy
 pipeline
+oracledb
