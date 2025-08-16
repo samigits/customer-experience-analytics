@@ -20,14 +20,19 @@ This project analyzes customer satisfaction with mobile banking apps for three E
 ## 🗃️ Project Structure
 customer-experience-analytics/  
 ├── data/  
+
 │ └── your_data.csv  
+
 ├── notebooks/  
+
 │ └── web_scraper.ipynb
 
 │ └── sentiment_thematic_analysis.ipynb
 
 │ └── bulk_insert.ipynb
-├── requirements.txt  
+
+├── requirements.txt 
+
 └── README.md  
 
 ## Setup Instructions
