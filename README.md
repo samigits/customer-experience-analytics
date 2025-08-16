@@ -23,7 +23,9 @@ customer-experience-analytics/
 │ └── your_data.csv  
 ├── notebooks/  
 │ └── web_scraper.ipynb
+
 │ └── sentiment_thematic_analysis.ipynb
+
 │ └── bulk_insert.ipynb
 ├── requirements.txt  
 └── README.md  
